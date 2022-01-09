@@ -6,7 +6,7 @@ Enhancements are needed to make additions of earthquake data in relation to the 
 
 ## Deliverable 1
   ### Add Tectonic Plate Data
-
+  
 ![deliverable1](Images/deliverable1.PNG)
 
 ## Deliverable 2

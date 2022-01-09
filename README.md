@@ -7,14 +7,14 @@ Enhancements are needed to make additions of earthquake data in relation to the 
 ## Deliverable 1
   ### Add Tectonic Plate Data
 
-![deliverable1](static/images/deliverable1.PNG)
+![deliverable1](Images/deliverable1.PNG)
 
 ## Deliverable 2
   ### Add Major Earthquake Data
   
-![deliverable2](static/images/deliverable2.PNG)
+![deliverable2](Images/deliverable2.PNG)
 
 ## Deliverable 3
  ### Add an Additional Map
 
-![deliverable3](static/images/deliverable3.PNG)
+![deliverable3](Images/deliverable3.PNG)
